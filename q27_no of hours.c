@@ -7,7 +7,7 @@ void main()
 	float n;
 	printf("hello\nenter no of hours=");
 	scanf("%f",&n);
-	
+	 
 	if(n>=2 && n<=3)
 	{
 		printf("highly efficient");			
